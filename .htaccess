@@ -1,0 +1,7 @@
+Options All -Indexes
+DirectoryIndex index.php index.html index.htm
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_USER_AGENT} ^curl [NC]
+RewriteRule ^(.*)$ curl.html [L]
