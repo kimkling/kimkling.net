@@ -640,8 +640,16 @@
 					color: white;
 				}
 
-				#intro .content .links .service {
+				#intro .content .links .json-1 {
 					margin-left: 50px
+				}
+
+				#intro .content .links .json-2 {
+					margin-left: 100px
+				}
+
+				#intro .content .links .json-3 {
+					margin-left: 150px
 				}
 
 			#intro .content p {
