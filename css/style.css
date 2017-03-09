@@ -604,7 +604,6 @@
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
 				padding: 2rem 1rem;
-				max-height: 40rem;
 				overflow: hidden;
 			}
 
@@ -622,7 +621,6 @@
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
 				padding: 2rem 1rem;
-				max-height: 40rem;
 				overflow: hidden;
 				font-family: monospace;
 				text-align: left;
@@ -780,6 +778,18 @@
 
 			#intro .content p {
 				line-height: 1.875;
+			}
+
+			#intro .content .links .json-1 {
+				margin-left: 25px
+			}
+
+			#intro .content .links .json-2 {
+				margin-left: 50px
+			}
+
+			#intro .content .links .json-3 {
+				margin-left: 75px
 			}
 
 		}
