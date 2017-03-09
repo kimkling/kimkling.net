@@ -1,5 +1,5 @@
-# kimkling.net
+# http://kimkling.net
 
-Source code for kimkling.net. Design & CSS based on Dimension by HTML5 UP, html5up.net / @ajlkn.
+Source code for http://kimkling.net. Design & CSS based on Dimension by HTML5 UP, http://html5up.net / @ajlkn.
 
-Alias: kling.kim, kimkling.se
+Alias: http://kling.kim, http://kimkling.se
