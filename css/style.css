@@ -624,6 +624,7 @@
 				overflow: hidden;
 				font-family: monospace;
 				text-align: left;
+				line-height: 120%;
 			}
 
 				#intro .content .links > :last-child {
