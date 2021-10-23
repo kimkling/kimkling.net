@@ -1,0 +1,48 @@
+I hereby claim:
+
+  * I am an admin of http://kimkling.net
+  * I am kimkling (https://keybase.io/kimkling) on keybase.
+  * I have a public key ASBibFZ-mfD7TzkOtPU_MTFIu8Oq7Clp0qAOcMZ0FriTdgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016297d526912b9d78b1bcdd75ce28324beca4cdf0c5e973616d79b848fdf2d37c0a",
+            "host": "keybase.io",
+            "kid": "0120626c567e99f0fb4f390eb4f53f313148bbc3aaec2969d2a00e70c67416b893760a",
+            "uid": "579b60b586e3dc12c8cf8fad76db7119",
+            "username": "kimkling"
+        },
+        "service": {
+            "hostname": "kimkling.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1488070198,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1488070148,
+        "hash": "590079fb6c9b8aaffeca93642740e868c78e4f160cf7a318eb6b733c493965d6f1c7b4c632286b4d27e9a1877617a5f384b8739d4cb7975f2762a1727236d4be",
+        "seqno": 924366
+    },
+    "prev": "5fb5a1b5082e74c1871dcdb89527af012c7c0e98b2e3eeaed2be135a68060b4c",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYmxWfpnw+085DrT1PzExSLvDquwpadKgDnDGdBa4k3YKp3BheWxvYWTFAvR7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNjI5N2Q1MjY5MTJiOWQ3OGIxYmNkZDc1Y2UyODMyNGJlY2E0Y2RmMGM1ZTk3MzYxNmQ3OWI4NDhmZGYyZDM3YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjI2YzU2N2U5OWYwZmI0ZjM5MGViNGY1M2YzMTMxNDhiYmMzYWFlYzI5NjlkMmEwMGU3MGM2NzQxNmI4OTM3NjBhIiwidWlkIjoiNTc5YjYwYjU4NmUzZGMxMmM4Y2Y4ZmFkNzZkYjcxMTkiLCJ1c2VybmFtZSI6ImtpbWtsaW5nIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJraW1rbGluZy5uZXQiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg4MDcwMTk4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODgwNzAxNDgsImhhc2giOiI1OTAwNzlmYjZjOWI4YWFmZmVjYTkzNjQyNzQwZTg2OGM3OGU0ZjE2MGNmN2EzMThlYjZiNzMzYzQ5Mzk2NWQ2ZjFjN2I0YzYzMjI4NmI0ZDI3ZTlhMTg3NzYxN2E1ZjM4NGI4NzM5ZDRjYjc5NzVmMjc2MmExNzI3MjM2ZDRiZSIsInNlcW5vIjo5MjQzNjZ9LCJwcmV2IjoiNWZiNWExYjUwODJlNzRjMTg3MWRjZGI4OTUyN2FmMDEyYzdjMGU5OGIyZTNlZWFlZDJiZTEzNWE2ODA2MGI0YyIsInNlcW5vIjoxNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBGeyeh6fI4oyWUjqIVyP/adj7sn3rZ/PV8ICodT1QH9wpU54UNq9zAM/yhTlMPp0BEDfz56fi/g3t3OlQg9/8AqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg0Q8yAV583LIxd0LoJ+g4SFrQFzUukCeYLBOZTWf+DWWjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kimkling
